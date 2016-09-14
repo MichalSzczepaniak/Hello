@@ -1,1 +1,3 @@
 to jest test dla GIT
+
+A teraz wprowadzi³em zmiany, ¿eby zobaczyæ, jak to dzia³a
